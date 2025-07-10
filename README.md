@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xinbenlv-mcpsq-badge.png)](https://mseep.ai/app/xinbenlv-mcpsq)
+
 # MCP^2(MCPSQ)
 
 [![CI/CD](https://github.com/xinbenlv/mcpsq/actions/workflows/ci.yml/badge.svg)](https://github.com/xinbenlv/mcpsq/actions/workflows/ci.yml)
